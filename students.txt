@@ -1,0 +1,20 @@
+STUDENT RECORDS
+========================================
+
+ID: CS001
+Name: cardo
+Grade: A
+Major: Computer Science
+--------------------
+ID: CS002
+Name: tanggol
+Grade: B
+Major: Computer Science
+--------------------
+ID: EE001
+Name: domeng
+Grade: A
+Major: Electrical Engineering
+--------------------
+
+Total Records: 3
